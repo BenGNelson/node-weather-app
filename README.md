@@ -15,3 +15,14 @@ After install, update config.json with your Map Box and Dark Sky tokens
     "geocodeToken": "MAP BOX TOKEN GOES HERE"
 }
 ```
+
+## Running locally
+To run the app locally with nodemon
+```
+npm run dev
+```
+## Deployment
+To start the app on a dedicated server
+```
+npm run start
+```
